@@ -1,0 +1,70 @@
+.container-fluid {
+    background-color: grey;
+}
+
+.jumbotron {
+    /* margin-top: 20px; */
+    background-image: url(../images/jumbotron.jpg);
+    background-size: cover;
+    color: white;
+    /* font-family: fantasy; */
+    font-family: monospace;
+}
+
+.padTop {
+    padding-top: 20px;
+}
+
+.myName {
+    color: black;
+}
+
+.imgHomepage {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.imgPortfolio {
+    height: 400px;
+    width: 400px;
+    border-radius: 3%;
+}
+
+.btn {
+    margin-left: 20px;
+}
+
+.about {
+    color: white;
+    text-decoration: underline;
+}
+
+.aboutMe {
+    color: white;
+}
+
+.skills {
+    list-style-type: none;
+}
+
+li {
+    color: white;
+}
+
+.box {
+    font-size: 30px;
+}
+
+.text-white {
+    color: white;
+}
+
+.quotes {
+    color: white;
+    /* margin-top: 20px; */
+}
+
+.footer {
+    color: white;
+}
